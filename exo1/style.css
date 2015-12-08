@@ -1,0 +1,117 @@
+body
+{
+    background-image: url("images/crossword.png");
+    font-family: "Garamond";
+    padding: 0;
+    margin: 0;
+}
+
+h1
+{
+    font-size: 2em;
+}
+h2
+{
+	color: #CD853F	
+}
+h3
+{
+    color: #CD853F;
+	border: 3px #cd853f solid;
+	border-radius: 20px;
+	
+}
+.ordinateur
+{
+    width: 100px;
+    height: 100px;
+	border-radius: 10px;
+}
+header
+{
+    background: url("images/extra_clean_paper.png");
+    text-align: center;
+}
+
+.container-fluid
+{
+	position-top: fixed;
+	position: relative;
+	
+}
+.col-md-4
+{
+	width: 30%
+}
+.container 
+{
+	width: 100%;
+	position: relative;
+}
+#parcours
+{
+    width: 33%;
+    height: 280px;
+    display: inline-block;
+	position: absolute;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right:20px;
+    line-height: 20px;
+    font-size: 15px;
+    
+}
+
+a
+{color: red;
+font-size: 15px;
+font-family: cursive;	
+}
+p {
+	text-align: justify;
+}
+#ambitions
+{
+    width: 33%;
+    height:280px;
+    display:inline-block;
+	position: absolute;
+	vertical-align: top;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 20px;
+    font-size: 15px;
+	
+}	
+#experience
+{
+    width:33%;
+    height: 280px;
+    display: inline-block;
+	position: absolute;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 20px;
+    font-size: 15px;
+}
+.contacts
+{
+    display: inline-block;
+    margin-left: 30px;
+    vertical-align: middle;
+}
+.iframe
+{
+    width: 50%;
+    vertical-align: middle;
+}
+
+footer
+{
+    background: url("images/gplaypattern.png");
+    text-align: center;
+}
